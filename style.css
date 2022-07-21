@@ -14,3 +14,7 @@ h1 {
 section {
     display: flex;
 }
+
+.size {
+    width: 1000px;
+}
