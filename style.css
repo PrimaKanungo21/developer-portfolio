@@ -1,9 +1,12 @@
-body{
+body {
     font-family: 'Cormorant SC', serif;
+
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-.orange-color{
-    color:orangered;
+
+.orange-color {
+    color: orangered;
 }
