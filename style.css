@@ -16,5 +16,6 @@ section {
 }
 
 .size {
-    width: 1000px;
+    width: 2000px;
+    padding-left: 100px;
 }
