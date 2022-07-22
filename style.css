@@ -13,6 +13,7 @@ h1 {
     font-size: 20px;
 }
 
+
 .orange-color {
     color: orangered;
 }
@@ -25,6 +26,7 @@ h1 {
 .size {
     width: 200%;
     padding-right: 20px;
+
 }
 
 .size img {
@@ -49,4 +51,34 @@ h1 {
     background-image: url(images/shawn6.jpg);
     background-repeat: no-repeat;
     background-position: left center;
+}
+
+.happy-watching {
+    background-image: url(images/back2.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+
+
+.cartoon-item {
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px goldenrod;
+
+}
+
+#shaun-the-sheep {
+    border-left: 10px solid rgb(224, 224, 9);
+}
+
+#oggy-and-cockroz {
+    border-left: 10px solid rgb(234, 13, 87);
+}
+
+footer p {
+    text-align: center;
 }
