@@ -17,7 +17,7 @@ h1 {
     color: orangered;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin: 120px;
 }
