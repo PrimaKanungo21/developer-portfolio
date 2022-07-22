@@ -17,9 +17,19 @@ section {
 
 .size {
     width: 2000px;
-    padding-left: 100px;
+    padding-right: 200px;
 }
 
 .size img {
     width: 40%;
+    padding-left: 300px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, white);
+    padding: 10px 20px;
+    color: crimson;
+    font-weight: 700;
+    border-radius: 50px;
 }
